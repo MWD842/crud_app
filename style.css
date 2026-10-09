@@ -1,0 +1,42 @@
+#main_title{
+  text-align: center;
+  background-color: brown;
+  color: #fff;
+  padding: 15px;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.box1 h2{
+  float: left;
+}
+
+.box1 button{
+  float: right;
+}
+
+.container{
+  margin-top: 50px;
+}
+
+.wholePage{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h6{
+  text-align: center;
+  color: red;
+}
+
+h5{
+  text-align: center;
+  color: green;
+}
+
+.icon img{
+  width: 40px;
+  height: 40px;
+  vertical-align:-10%;
+  margin-right: 15px;
+}
